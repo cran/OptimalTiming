@@ -1,0 +1,13 @@
+5c2fa817d7feab3ecd5e71f23f3832e6 *DESCRIPTION
+39be36c372789a5efd1aecfa7be482ac *NAMESPACE
+b7775407f74557be70af881a89a40952 *R/SimCml.R
+b004a6fafc63231a58a7d813bd0561c0 *R/conf.MTL.R
+c2bcd40b6f118e56ac23489c5f551cd7 *R/optim.fit.R
+77e3abfaee3c2ffc2ea56562272eb4ae *R/optimtime-internal.R
+8dd6d17023e3ebdf8bda09e16a497ad3 *R/sim.MTL.R
+7e5672009ec15461f3a76aff740cd6e0 *data/SimCml.RData
+71e98c0e98bf2d5eb55873ef5d005956 *man/SimCml.Rd
+82127c1c51a480aec6df5c32c0d0818b *man/conf.MTL.Rd
+886c87c36ceda453339375fb3804e578 *man/optim.fit.Rd
+7c190668194a493110e7a30840bae938 *man/sim.MTL.Rd
+c3670b1172b18008acacb19c17941abf *man/sim.los.Rd

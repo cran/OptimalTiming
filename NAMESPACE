@@ -1,0 +1,7 @@
+export(optim.fit)
+export(sim.MTL)
+export(conf.MTL)
+importFrom(survival,coxph)
+importFrom(survival,Surv)
+importFrom(survival,strata)
+importFrom("stats", "as.formula", "qnorm", "runif", "sd")
